@@ -11,9 +11,10 @@
 ```
 
 ### libraries -> provides with built in functions and tools
-ex - -`#include<iostream>` -> for cout & cin
-     -`#include<math.h>` -> for math operations
-     -`#include<bits/stdc++.h>` -> includes allmost all standard libraries of c++ -> used in compitative programming
+ex - 
+- `#include<iostream>` -> for cout & cin
+- `#include<math.h>` -> for math operations
+- `#include<bits/stdc++.h>` -> includes allmost all standard libraries of c++ -> used in compitative programming
 
 use using namespace std; or std:: in front of every function
       |---> improves visibility & readibility of code
